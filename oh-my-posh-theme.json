@@ -23,8 +23,9 @@
             "properties": {
               "folder_icon": "\ue5ff",
               "folder_separator_icon": "/",
-              "home_icon": "\uf7db",
-              "style": "agnoster"
+              "home_icon": "\udb80\udedc",
+              "style": "agnoster", 
+              "mixed_threshold": 5
             },
             "style": "plain",
             "template": "{{ .Path }}",
