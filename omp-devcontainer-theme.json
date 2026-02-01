@@ -23,9 +23,9 @@
           "type": "path",
           "foreground": "blue",
           "options": {
-            "folder_icon": "\ue5ff",
+            "folder_icon": "\uf07b",
             "folder_separator_icon": "/",
-            "home_icon": "\uf7db",
+            "home_icon": "\udb80\udedc",
             "style": "agnoster"
           },
           "style": "plain",
@@ -74,5 +74,5 @@
     }
   ],
   "final_space": true,
-  "version": 2
+  "version": 4
 }
